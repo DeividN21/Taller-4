@@ -24,7 +24,7 @@ Se debe recoger todas las monedas y tratar de llegar al final.
 ![Imagen](https://github.com/DeividN21/Taller-4/blob/main/T4-2.png?raw=true)
 
 # Enlace del Video de Demostración
-- https://youtu.be/logG4T2K19U
+- Enlace
 
 # Enlace de Videojuego subido a itch.io
 - https://deividn21.itch.io/taller-4
